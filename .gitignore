@@ -1,0 +1,42 @@
+.yarn/cache
+.yarn/install-state.gz
+node_modules
+npm-debug*
+package-lock.json
+yarn-error.log
+
+#Next
+.next
+
+# Compiled files
+build/
+.idea
+.vscode
+
+# OS Files
+.DS_Store
+
+#babel-cache
+.babel-cache
+
+#swc
+*.swc
+
+#Test Coverage
+coverage
+
+#on demand module bundle
+.development.env
+
+#Dependency Tracer
+dependencies.txt
+
+# Configuration
+config/environment.js
+.env*.local
+
+#Dump
+dump.rdb
+
+#typesript
+*.tsbuildinfo
